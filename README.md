@@ -1,1 +1,4 @@
-# 648.01-Assignment-6
+### Introduction
+In this assignment we have covered the basics of JavaScript by introducing concepts such as conditional statement and loops. 
+
+
